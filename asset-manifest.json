@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/banka%20pp/static/css/main.c8fe0f57.css",
-    "main.js": "/banka%20pp/static/js/main.a83a7cb9.js",
-    "static/media/big-boss.png": "/banka%20pp/static/media/big-boss.1f5c048f8b4e81662890.png",
-    "index.html": "/banka%20pp/index.html",
-    "main.c8fe0f57.css.map": "/banka%20pp/static/css/main.c8fe0f57.css.map",
-    "main.a83a7cb9.js.map": "/banka%20pp/static/js/main.a83a7cb9.js.map"
+    "main.css": "/bankapp/static/css/main.c8fe0f57.css",
+    "main.js": "/bankapp/static/js/main.72218c8c.js",
+    "static/media/big-boss.png": "/bankapp/static/media/big-boss.1f5c048f8b4e81662890.png",
+    "index.html": "/bankapp/index.html",
+    "main.c8fe0f57.css.map": "/bankapp/static/css/main.c8fe0f57.css.map",
+    "main.72218c8c.js.map": "/bankapp/static/js/main.72218c8c.js.map"
   },
   "entrypoints": [
     "static/css/main.c8fe0f57.css",
-    "static/js/main.a83a7cb9.js"
+    "static/js/main.72218c8c.js"
   ]
 }
